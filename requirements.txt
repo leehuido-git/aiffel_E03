@@ -1,0 +1,4 @@
+opencv-python
+dlib==19.20.0
+numpy
+matplotlib
